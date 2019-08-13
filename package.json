@@ -45,7 +45,7 @@
     "progress": "^2.0.3",
     "shelljs": "^0.8.3",
     "typedoc-default-themes": "github:fde31/typedoc-default-themes#feature/export-declarations",
-    "typescript": "3.3.x"
+    "typescript": "^3.5.3"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.6",
